@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: python-ci-sample
+Version: 0.1.0
+Summary: Sample Python repo with pytest and Jenkins
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# python-ci-sample
+Basic python project with tests for Jenkins CI.

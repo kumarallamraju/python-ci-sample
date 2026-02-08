@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/app/__init__.py
+src/app/calculator.py
+src/app/utils.py
+src/python_ci_sample.egg-info/PKG-INFO
+src/python_ci_sample.egg-info/SOURCES.txt
+src/python_ci_sample.egg-info/dependency_links.txt
+src/python_ci_sample.egg-info/top_level.txt
+tests/test_calculator.py
+tests/test_utils.py
